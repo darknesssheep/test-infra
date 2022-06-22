@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 5.17.0-1005-oem-5.17
+target: ubuntu-oem-5.17
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oem-5.17_5.17.0-1005-oem-5.17_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oem-5.17_5.17.0-1005-oem-5.17_1.o

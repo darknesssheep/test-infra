@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 3.19.0-77-lts-vivid
+target: ubuntu-lts-vivid
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-lts-vivid_3.19.0-77-lts-vivid_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-lts-vivid_3.19.0-77-lts-vivid_1.o

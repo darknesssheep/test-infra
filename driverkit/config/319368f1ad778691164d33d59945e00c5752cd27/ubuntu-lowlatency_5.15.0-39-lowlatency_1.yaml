@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 5.15.0-39-lowlatency
+target: ubuntu-lowlatency
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-lowlatency_5.15.0-39-lowlatency_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-lowlatency_5.15.0-39-lowlatency_1.o

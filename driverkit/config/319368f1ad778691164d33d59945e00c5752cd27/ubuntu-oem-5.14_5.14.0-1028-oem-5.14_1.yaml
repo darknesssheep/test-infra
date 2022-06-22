@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 5.14.0-1028-oem-5.14
+target: ubuntu-oem-5.14
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oem-5.14_5.14.0-1028-oem-5.14_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oem-5.14_5.14.0-1028-oem-5.14_1.o

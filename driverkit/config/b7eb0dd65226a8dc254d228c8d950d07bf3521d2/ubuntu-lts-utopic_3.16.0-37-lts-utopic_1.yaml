@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 3.16.0-37-lts-utopic
+target: ubuntu-lts-utopic
+output:
+  module: output/b7eb0dd65226a8dc254d228c8d950d07bf3521d2/falco_ubuntu-lts-utopic_3.16.0-37-lts-utopic_1.ko
+  probe: output/b7eb0dd65226a8dc254d228c8d950d07bf3521d2/falco_ubuntu-lts-utopic_3.16.0-37-lts-utopic_1.o

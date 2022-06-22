@@ -1,0 +1,6 @@
+kernelversion: 64
+kernelrelease: 3.8.13-118.28.1.el6uek.x86
+target: oracle6
+output:
+  module: output/39ae7d40496793cf3d3e7890c9bbdc202263836b/falco_oracle6_3.8.13-118.28.1.el6uek.x86_64.ko
+  probe: output/39ae7d40496793cf3d3e7890c9bbdc202263836b/falco_oracle6_3.8.13-118.28.1.el6uek.x86_64.o

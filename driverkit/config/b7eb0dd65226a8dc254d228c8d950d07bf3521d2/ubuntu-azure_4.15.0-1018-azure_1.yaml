@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 4.15.0-1018-azure
+target: ubuntu-azure
+output:
+  module: output/b7eb0dd65226a8dc254d228c8d950d07bf3521d2/falco_ubuntu-azure_4.15.0-1018-azure_1.ko
+  probe: output/b7eb0dd65226a8dc254d228c8d950d07bf3521d2/falco_ubuntu-azure_4.15.0-1018-azure_1.o

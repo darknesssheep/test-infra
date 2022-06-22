@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 4.15.0-1095-oracle
+target: ubuntu-oracle
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oracle_4.15.0-1095-oracle_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oracle_4.15.0-1095-oracle_1.o

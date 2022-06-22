@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 5.8.0-1033-oracle-5.8
+target: ubuntu-oracle-5.8
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oracle-5.8_5.8.0-1033-oracle-5.8_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-oracle-5.8_5.8.0-1033-oracle-5.8_1.o

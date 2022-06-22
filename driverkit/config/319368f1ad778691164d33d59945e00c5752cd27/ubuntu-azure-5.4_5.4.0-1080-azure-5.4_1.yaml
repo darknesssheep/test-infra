@@ -1,0 +1,6 @@
+kernelversion: 1
+kernelrelease: 5.4.0-1080-azure-5.4
+target: ubuntu-azure-5.4
+output:
+  module: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-azure-5.4_5.4.0-1080-azure-5.4_1.ko
+  probe: output/319368f1ad778691164d33d59945e00c5752cd27/falco_ubuntu-azure-5.4_5.4.0-1080-azure-5.4_1.o
